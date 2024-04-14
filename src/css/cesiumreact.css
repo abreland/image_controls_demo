@@ -1,0 +1,12 @@
+.controlBoxFill{
+    position: absolute;
+    top: 25px;
+    left: 5px;
+    z-index: 1;
+    padding:12px;
+    background-color:#0D0535;
+    opacity: 0.80;
+    display: flex;
+    margin:32px;
+    border-radius: 15px;
+}
